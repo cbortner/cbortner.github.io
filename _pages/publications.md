@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ In my research, I am interested in applications of theoretical mathematics, incl
 
 Students interested in working with me should be comfortable writing proofs, i.e. have taken MATH 3400 "Set Theory and Logic".  We will learn anything else we need along the way!
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=cxfkHa8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+## Publications
 
 {% include base_path %}
 
