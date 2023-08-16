@@ -11,4 +11,3 @@ citation: 'Bortner, C. & Sullivant, S. (Mar. 2022). &quot;Structural Identifiabi
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0747717122000025)
 
-Recommended citation: 'Bortner, C. & Sullivant, S. (Mar. 2022). &quot;Structural Identifiability of Series-Parallel LCR Systems.&quot; <i>Journal of Symbolic Computation</i>. 112 (pp 79-104).'
