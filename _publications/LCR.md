@@ -1,4 +1,4 @@
-CR---
+---
 title: "Structural Identifiability of Series-Parallel LCR Systems"
 collection: publications
 permalink: /publication/LCR
