@@ -9,7 +9,7 @@ In my research, I am interested in applications of theoretical mathematics, incl
 
 Students interested in working with me should be comfortable writing proofs, i.e. have taken MATH 3400 "Set Theory and Logic".  We will learn anything else we need along the way!
 
-## Publications
+# Publications
 
 {% include base_path %}
 
