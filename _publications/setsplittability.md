@@ -18,9 +18,9 @@ three or fewer sets (p arbitrary), and for four or fewer sets (p = 1
 an appropriate sense.'
 date: 2019-10-01
 venue: 'The Australasian Journal of Combinatorics'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://ajc.maths.uq.edu.au/pdf/75/ajc_v75_p190.pdf'
 citation: 'Bernstein, P., Bortner, C., Coskey, C., Li, S., & Simnpson, C. (2019). &quot;The Set Splittability Problem&quot; <i>The Australasian Journal of Combinatorics 1</i>. 85(190-209).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ajc.maths.uq.edu.au/pdf/75/ajc_v75_p190.pdf)
 
