@@ -19,7 +19,7 @@ an appropriate sense.'
 date: 2019-10-01
 venue: 'The Australasian Journal of Combinatorics'
 paperurl: 'https://ajc.maths.uq.edu.au/pdf/75/ajc_v75_p190.pdf'
-citation: 'Bernstein, P., Bortner, C., Coskey, C., Li, S., & Simnpson, C. (2019). &quot;The Set Splittability Problem&quot; <i>The Australasian Journal of Combinatorics 1</i>. 85(190-209).'
+citation: 'Bernstein, P., Bortner, C., Coskey, C., Li, S., & Simnpson, C. (Oct. 2019). &quot;The Set Splittability Problem&quot; <i>The Australasian Journal of Combinatorics 1</i>. 85 (pp 190-209).'
 ---
 
 [Download paper here](https://ajc.maths.uq.edu.au/pdf/75/ajc_v75_p190.pdf)
