@@ -12,6 +12,8 @@ redirect_from:
 
 <object data="../files/Bortner_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
