@@ -66,3 +66,19 @@ CCMP is located in the Department of Mathematics at California State University,
 
 I attended the 2023 CCMP summer workshop: Social Justice in the Classroom - Putting Theory into Practice!
 
+### [STEM-NET](https://www.calstate.edu/impact-of-the-csu/research/stem-net)
+
+STEM-NET promotes research, community building and innovative educational ideas across the CSU university system and provides students the skills they need to excel in the workforce of the future and meet the needs of California’s innovative and evolving economy.
+
+I attended the 2023 STEM-NET "Becoming more than the sum of our parts" conference!
+
+### [Math Alliance](https://mathalliance.org/)
+
+Our goal is simple: we want to be sure that every underrepresented or underserved American student with the talent and the ambition has the opportunity to earn a doctoral degree in a mathematical or statistical science.
+
+Our commitment is to build a national community of students, faculty, and staff who will work together to transform our departments, colleges, and universities into institutions where all students are welcome. Our mentors come from a variety of schools all over the country. What they all have in common is a commitment to our Math Alliance Scholars.
+
+
+
+
+
