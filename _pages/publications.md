@@ -9,6 +9,11 @@ In my research, I am interested in applications of theoretical mathematics, incl
 
 Students interested in working with me should be comfortable writing proofs, i.e. have taken MATH 3400 "Set Theory and Logic".  We will learn anything else we need along the way!
 
+# Current Students Researchers
+
+* Paola Campos (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
+* Jeff Venable (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
+
 # Current/Former Collaborators
 
 * [Elizabeth Gross, University of Hawai'i at Manoa](https://math.hawaii.edu/wordpress/people/egross/)
@@ -19,7 +24,6 @@ Students interested in working with me should be comfortable writing proofs, i.e
 * [Samuel Coskey, Boise State University](https://scoskey.org/)
 * [Shuni Li, University of California, Berkeley](https://shunili.github.io/)
 * Peter Bernstein, formerly of Tufts University
-
 
 # Publications
 
