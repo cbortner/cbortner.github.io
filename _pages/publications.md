@@ -11,6 +11,8 @@ Students interested in working with me should be comfortable writing proofs, i.e
 
 # Current Research Students
 
+* Dev Patel
+* Jennifer Ayson
 * Paola Campos (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
 * Jeff Venable (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
 
