@@ -12,4 +12,4 @@ redirect_from:
 
 <object data="../files/Bortner_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-*Updated 8/18/2023
+*Updated 9/22/2023
