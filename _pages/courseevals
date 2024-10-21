@@ -4,7 +4,7 @@ title: "Course Evaluations"
 permalink: /courseevals/
 author_profile: true
 redirect_from:
-  - /evals
+  - /courseevals
 ---
 
 {% include base_path %}
