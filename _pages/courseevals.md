@@ -3,8 +3,6 @@ layout: archive
 title: "Course Evaluations"
 permalink: /courseevals/
 author_profile: true
-redirect_from:
-  - /courseevals
 ---
 
 {% include base_path %}
