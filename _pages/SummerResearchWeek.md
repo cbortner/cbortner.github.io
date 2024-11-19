@@ -4,12 +4,12 @@ title: "Summer Research Week"
 permalink: /SRW/
 author_profile: true
 redirect_from:
-  - /resume
+  - /SummerResearchWeek
 ---
 
 {% include base_path %}
 
 
-<object data="../files/Bortner_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/Cash-SRW-Pres.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 *Updated Fall 2024
