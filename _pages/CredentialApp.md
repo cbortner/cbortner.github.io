@@ -4,7 +4,7 @@ title: "Credential Application Presentation 2025"
 permalink: /CredentialApp/
 author_profile: true
 redirect_from:
-  - /CredentialApplication
+  - /CredentialApplication/
 ---
 
 {% include base_path %}
