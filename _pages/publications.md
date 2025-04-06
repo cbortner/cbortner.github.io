@@ -5,21 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-In my research, I am interested in applications of theoretical mathematics, including graph theory, combinatorics, and algebraic geoemtry, to problems from biology and physics.  Often this work is categorized as being in the field of <i>algebraic statistics</i>.  I love this work because it allows me to use several different areas of math while also having underlying motivation from the real world for the problems that I work on.  Almost every project I do involves some amount of code for testing examples in Python/Sage, Mathematica, and/or Macaulay2.
+In my research, I am interested in applications of theoretical mathematics, including graph theory, combinatorics, and algebraic geoemtry, to problems from biology and physics.  Often this work is categorized as being in the field of <i>algebraic statistics</i>.  I love this work because it allows me to use several different areas of math while also having underlying motivation from the real world for the problems that I work on.  Almost every project I do involves some amount of code for testing examples in Python/Sage, Mathematica, Julia, and/or Macaulay2.
 
-Students interested in working with me should be comfortable writing proofs, i.e. have taken MATH 3400 "Set Theory and Logic."  We will learn anything else we need along the way!
+I take research students with varying backgrounds to work on different types of projects, ranging from code-heavy projects where we test different model characteristics, to theoretical projects where we prove things using graph theory, combinatorics, and algebra.  If you're interested in my work please email me!
 
 # Current/Former Undergradaute Research Students
 
-* John Gilliana
-* Zaia Tamras
-* Dev Patel
-* Jennifer Ayson
-* Paola Campos (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
-* Jeff Venable (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
+* Francisco Duran [computer science]
+* Jacky Sierra Lopez [math]
+* Eduardo Chamorro [math]
+* Ingrid Ruvalcaba Gomez [math/sociology]
+* Omar Rios Cruz [computer science]
+* Tana Randolph [math]
+* John Gilliana [math/economy]
+* Zaia Tamras [math]
+* Dev Patel [math]
+* Jennifer Ayson [math]
+* Paola Campos [math] (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
+* Jeff Venable [math] (co-advised with [Jessica De Silva](https://jessicadesilva.github.io/))
 
 # Current/Former Collaborators
 
+* [Derek Young, Mount Holyoke College](https://derekyoungmath.github.io/)
+* [Naomi Krawzik, Sam Houston State University](https://www.shsu.edu/academics/mathematics-and-statistics/faculty/krawzik.html)
+* [Christopher McClain, West Virginia University Institute of Technology](https://www.wvutech.edu/directory/arts-and-science/mcclain)
+* [Jennifer Garbett, Lenoir-Rhyne University](https://www.lr.edu/about/directory/jennifer-garbett)
 * [Elizabeth Gross, University of Hawai'i at Manoa](https://math.hawaii.edu/wordpress/people/egross/)
 * [Anne Shiu, Texas A&M University](https://www.math.tamu.edu/~annejls/)
 * [Nicolette Meshkat, Santa Clara University](https://www.scu.edu/cas/mathcs/faculty-and-staff/nicolette-meshkat/)
