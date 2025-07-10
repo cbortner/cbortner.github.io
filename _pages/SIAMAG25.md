@@ -3,9 +3,9 @@ layout: archive
 title: "SIAMAG25"
 permalink: /SIAMAG25/
 author_profile: true
+---
 
-
-{% include base_path %}
-
-
-<object data="../files/SIAMAG_2025.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ '/files/SIAMAG_2025.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
+  <p>Your browser does not support PDFs.
+     <a href="{{ '/files/SIAMAG_2025.pdf' | relative_url }}">Download the PDF</a>.</p>
+</object>
