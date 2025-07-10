@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "SIAMAG25"
+permalink: /SIAMAG25/
 author_profile: true
-redirect_from:
-  - /resume
----
+
 
 {% include base_path %}
 
