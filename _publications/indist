@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/indist
 excerpt: 'An important problem in biological modeling is choosing the right model. Given experimental data, one is supposed to find the best mathematical representation to describe the real-world phenomena. However, there may not be a unique model representing that real-world phenomena. Two distinct models could yield the same exact dynamics. In this case, these models are called indistinguishable. In this work, we consider the indistinguishability problem for linear compartmental models, which are used in many areas, such as pharmacokinetics, physiology, cell biology, toxicology, and ecology. We exhibit sufficient conditions for indistinguishability for models with a certain graph structure: paths from input to output with "detours". The benefit of applying our results is that indistinguishability can be proven using only the graph structure of the models, without the use of any symbolic computation. This can be very helpful for medium-to-large sized linear compartmental models. These are the first sufficient conditions for indistinguishability of linear compartmental models based on graph structure alone, as previously only necessary conditions for indistinguishability of linear compartmental models existed based on graph structure alone. We prove our results by showing that the indistinguishable models are the same up to a renaming of parameters, which we call permutation indistinguishability.'
 date: 2024-3-20
-venue: 'Preprint.'
+venue: 'SIAM Journal on Applied Dynamical Systems.'
 paperurl: 'https://arxiv.org/abs/2309.10861'
-citation: 'Bortner, C. & Meshkat, N. (2024). &quot;Graph-Based Sufficient Conditions for Indistinguishability of Linear Compartmental Models.&quot; <i>Preprint</i>.'
+citation: 'Bortner, C. & Meshkat, N. (2024). &quot;Graph-Based Sufficient Conditions for Indistinguishability of Linear Compartmental Models.&quot; <i>SIAM Journal on Applied Dynamical Systems</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2309.10861)
