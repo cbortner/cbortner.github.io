@@ -11,10 +11,15 @@ I take research students with varying backgrounds to work on different types of 
 
 # Current/Former Undergradaute Research Students
 
-* Francisco Duran [computer science]
-* Jacky Sierra Lopez [math]
+* Emily Oliveras [math]
+* Ariana Puccini [math/computer science]
+* Emmanuel Mendoza Rosales [computer science]
+* Joseph Reynosa [math]
+* Leonardo Morales [math] 
 * Eduardo Chamorro [math]
 * Ingrid Ruvalcaba Gomez [math/sociology]
+* Jacky Sierra Lopez [math]
+* Francisco Duran [computer science]
 * Omar Rios Cruz [computer science]
 * Tana Randolph [math]
 * John Gilliana [math/economy]
