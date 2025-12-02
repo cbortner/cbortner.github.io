@@ -22,7 +22,7 @@ I take research students with varying backgrounds to work on different types of 
 * Francisco Duran [computer science]
 * Omar Rios Cruz [computer science]
 * Tana Randolph [math]
-* John Gilliana [math/economy]
+* John Gilliana [math/economics]
 * Zaia Tamras [math]
 * Dev Patel [math]
 * Jennifer Ayson [math]
