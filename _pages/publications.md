@@ -11,6 +11,7 @@ I take research students with varying backgrounds to work on different types of 
 
 # Current/Former Undergradaute Research Students
 
+* Cooper Boone [math]
 * Emily Oliveras [math]
 * Ariana Puccini [math/computer science]
 * Emmanuel Mendoza Rosales [computer science]
