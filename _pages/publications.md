@@ -11,6 +11,10 @@ I take research students with varying backgrounds to work on different types of 
 
 # Current/Former Undergradaute Research Students
 
+* Tatiana Cherukuri [math]
+* Nicole Little [math]
+* Rene Rodriguez [math]
+* Emanuel Vega-Maldonado [computer science]
 * Cooper Boone [math]
 * Emily Oliveras [math]
 * Ariana Puccini [math/computer science]
