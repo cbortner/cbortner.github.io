@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to my page!
 
-Welcome to my website!  My name is Cash, and I'm an Assistant Professor of Mathematics at California State University, Stanislaus.  I love baseball, the Nebraska Cornhuskers, and spending time with my wife and our animals!
+Welcome to my website!  My name is Cash, and I'm an Associate Professor of Mathematics at California State University, Stanislaus.  I love baseball, the Nebraska Cornhuskers, and spending time with my wife and our animals!
 
 # My Favorite Organizations and Affiliations
 
