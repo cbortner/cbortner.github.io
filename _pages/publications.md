@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-In my research, I am interested in applications of theoretical mathematics, including graph theory, combinatorics, and algebraic geoemtry, to problems from biology and physics.  Often this work is categorized as being in the field of <i>algebraic statistics</i>.  I love this work because it allows me to use several different areas of math while also having underlying motivation from the real world for the problems that I work on.  Almost every project I do involves some amount of code for testing examples in Python/Sage, Mathematica, Julia, and/or Macaulay2.
+In my research, I am interested in applications of theoretical mathematics—including graph theory, combinatorics, and algebraic geometry—to problems in biology and physics. This work is often categorized as <i>algebraic statistics</i>. I love this field because it allows me to use several different areas of mathematics while also providing real-world motivation for the problems I study. Nearly every project I undertake involves some amount of coding to test examples in Python/Sage, Mathematica, Julia, and/or Macaulay2.
 
-I take research students with varying backgrounds to work on different types of projects, ranging from code-heavy projects where we test different model characteristics, to theoretical projects where we prove things using graph theory, combinatorics, and algebra.  If you're interested in my work please email me!
+I work with research students from a variety of backgrounds on different types of projects, ranging from code-heavy projects in which we test various model characteristics to theoretical projects involving proofs using graph theory, combinatorics, and algebra. If you are interested in my work, please email me!
 
 # Current/Former Undergradaute Research Students
 
